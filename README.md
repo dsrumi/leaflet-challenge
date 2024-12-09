@@ -20,4 +20,4 @@ We included popups that provide additional information about the earthquake when
 
 Created a legend that will provide context for  map data.
 
-https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg
+![image](https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg)
